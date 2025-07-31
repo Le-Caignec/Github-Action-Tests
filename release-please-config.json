@@ -5,7 +5,8 @@
       "changelog-path": "CHANGELOG.md",
       "include-v-in-tag": true,
       "prerelease": false,
-      "versioning": "default"
+      "versioning": "default",
+      "prerelease-type": "rc"
     }
   },
   "changelog-sections": [
